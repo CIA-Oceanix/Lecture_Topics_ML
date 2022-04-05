@@ -1,4 +1,4 @@
-# Lecture_Topics_ML
+# Lecture Topics ML
 
 On the data-driven identification of some dynamical systems, linear regression, NODEs ...
 
